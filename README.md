@@ -15,7 +15,7 @@ Hello there! I'm **Marco DeLao**, a Computer Science student at **Alexandria Uni
 
 I enjoy turning what I learn into practical projects — from building AI agents using **Minimax and Alpha-Beta Pruning**, to analyzing real-world data with **Machine Learning**, and developing software systems using **Java OOP**.
 
-<br><br>
+<br>
 
 🎓 **Computer Science Student · AI Major**  
 🧠 **Deep Learning & Model Architecture**  
@@ -60,7 +60,7 @@ I enjoy turning what I learn into practical projects — from building AI agents
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <h2 align="center">
   ᝰ GitHub Activity
@@ -84,7 +84,7 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 </div>
 
-<br><br>
+<br>
 
 <h2 align="center">
   🔗 Connect
