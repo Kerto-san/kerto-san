@@ -101,9 +101,13 @@ I enjoy turning what I learn into practical projects — from building AI agents
     <img src="https://img.shields.io/badge/Gmail-083B73?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
+  <br>
+
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
     <img src="https://img.shields.io/badge/Discord-1261A0?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
+
+  <br>
 
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-2589D8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -112,4 +116,10 @@ I enjoy turning what I learn into practical projects — from building AI agents
 </td>
 
 <td width="40%" align="center" valign="middle">
-  <img src="./
+  <img src="./assets/Y.gif" width="100%" alt="Connect">
+</td>
+
+</tr>
+</table>
+
+<br>
