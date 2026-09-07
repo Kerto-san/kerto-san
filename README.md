@@ -97,13 +97,13 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <td width="558" align="center" valign="middle">
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:hamzaqabbari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-083B73?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
   <br><br>
 
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/1448268789358530630">
     <img src="https://img.shields.io/badge/Discord-1261A0?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 
