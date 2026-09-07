@@ -19,17 +19,17 @@
 
 <td width="62%" valign="top">
 
-Hello there! I'm **Marco DeLao**, a Software Engineering student. I enjoy learning new technologies, building practical software, and turning ideas into working projects.
+Hello there! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and understanding the architecture behind intelligent systems**.
 
 <br><br>
 
-I'm constantly improving my programming skills, exploring new technologies, and working on projects that help me understand software development beyond the surface.
+I enjoy turning what I learn into practical projects — from building AI agents using **Minimax and Alpha-Beta Pruning**, to analyzing real-world data with **Machine Learning**, and developing software systems using **Java OOP**.
 
 <br><br><br>
 
-🎓 **Software Engineering Student**  
-💻 **Software Development**  
-⚙️ **Building & Learning**
+🎓 **Computer Science Student · AI Major**  
+🧠 **Deep Learning & Model Architecture**  
+💻 **Python · Java · R**
 
 </td>
 
@@ -76,17 +76,17 @@ I'm constantly improving my programming skills, exploring new technologies, and 
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details">
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="82%" alt="Profile Details">
 
 <br><br>
 
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories Per Language">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language">
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="40%" alt="Repositories Per Language">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="40%" alt="Most Commit Language">
 
 <br>
 
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub Stats">
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time">
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="40%" alt="GitHub Stats">
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="40%" alt="Productive Time">
 
 </div>
 
