@@ -30,7 +30,7 @@ I'm constantly improving my programming skills, exploring new technologies, and 
 
 <td width="32%" align="center" valign="middle">
 
-<img src="./assets/test" width="230px" alt="Marco DeLao" />
+<img src="./assets/test.png" width="230px" alt="Marco DeLao" />
 
 </td>
 </tr>
