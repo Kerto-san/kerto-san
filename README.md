@@ -53,7 +53,7 @@ I enjoy turning what I learn into practical projects — from building AI agents
 <br><br>
 
 <h2 align="center">
-  📊 GitHub Activity
+  ᝰ GitHub Activity
 </h2>
 
 <hr>
