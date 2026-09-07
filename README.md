@@ -25,7 +25,13 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <td width="40%" align="center" valign="middle">
 
-<img src="./assets/test.png" width="100%" alt="About Me">
+<img
+  src="./assets/test.png"
+  width="100%"
+  height="535"
+  alt="About Me"
+  style="display:block;"
+>
 
 </td>
 
