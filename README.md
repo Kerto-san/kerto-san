@@ -1,3 +1,12 @@
+<div align="center">
+
+<img src="./assets/hero.svg" width="100%" alt="Marco DeLao">
+
+<br>
+
+</div>
+
+<hr>
 
 <h2 align="center">
   ♙ About me
@@ -43,15 +52,15 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0B5CAD?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-0B5CAD?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/R-0B5CAD?style=for-the-badge&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Python-083B73?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-0B4F8A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/R-1261A0?style=for-the-badge&logo=r&logoColor=white" alt="R">
 
 <br>
 
-<img src="https://img.shields.io/badge/Git-0B5CAD?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-0B5CAD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Pygame-0B5CAD?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
+<img src="https://img.shields.io/badge/Git-1976C9?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-2589D8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Pygame-3B9FEF?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
 
 </div>
 
@@ -92,11 +101,11 @@ I enjoy turning what I learn into practical projects — from building AI agents
 <div align="center">
 
 <a href="https://github.com/Marco-DeLao">
-  <img src="https://img.shields.io/badge/GitHub-0B5CAD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-083B73?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0B5CAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-1261A0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
