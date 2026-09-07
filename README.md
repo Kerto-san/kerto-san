@@ -97,39 +97,21 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <td width="558" align="center" valign="middle">
 
-<table cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td align="center">
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-083B73?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</td>
-</tr>
 
-<tr>
-<td height="10"></td>
-</tr>
+  <br><br>
 
-<tr>
-<td align="center">
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
     <img src="https://img.shields.io/badge/Discord-1261A0?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</td>
-</tr>
 
-<tr>
-<td height="10"></td>
-</tr>
+  <br><br>
 
-<tr>
-<td align="center">
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-2589D8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</td>
-</tr>
-</table>
 
 </td>
 
