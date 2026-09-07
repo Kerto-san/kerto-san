@@ -1,57 +1,51 @@
-<img src="./assets/hero.svg" width="100%" alt="Marco DeLao — software engineer" />
+<div align="center">
 
-`[ third/fourth-year ]` software engineering student focused on `[ specialization — e.g. backend systems, distributed apps, tooling ]`. I like `[ specific thing you actually enjoy building ]`, and right now I'm going deeper on `[ current skill ]`.
+<img src="./assets/hero.svg" width="100%" alt="Marco DeLao — Software Engineer" />
 
-Outside of code: `[ one real interest ]`.
+<br>
 
----
+<p>
+  <strong>Software Engineering Student</strong> · Builder · Problem Solver
+</p>
 
-### Stack
+<p>
+  I build software, experiment with ideas, and keep learning by turning
+  problems into working projects.
+</p>
 
-```
-languages    [ ]
-frameworks   [ ]
-databases    [ ]
-tools        [ ]
-```
+<p>
+  <a href="https://github.com/Marco-DeLao">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+  ·
+  <a href="mailto:">Email</a>
+</p>
 
----
-
-### Building
-
-**`[ Project 1 name ]`** — `[ what it does, one line ]`
-`[ tech, tech, tech ]` · [repo](#) · [demo](#)
-
-**`[ Project 2 name ]`** — `[ what it does, one line ]`
-`[ tech, tech, tech ]` · [repo](#) · [demo](#)
-
-**`[ Project 3 name ]`** — `[ what it does, one line ]`
-`[ tech, tech, tech ]` · [repo](#) · [demo](#)
+</div>
 
 ---
 
-### Now
+## About
 
-```
-building     [ ]
-learning     [ ]
-exploring    [ ]
-next         [ ]
-```
+I'm a software engineering student interested in building practical software
+and understanding how things work beyond the surface.
 
----
+I enjoy taking an idea, breaking it down into smaller problems, and turning
+it into something that actually works.
 
-### Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Marco-DeLao&theme=dark&hide_border=true&background=0B0F14&stroke=141B22&ring=3FA796&fire=3FA796&currStreakLabel=3FA796)](https://github.com/Marco-DeLao)
-
-[![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+Currently, I'm focused on improving my engineering fundamentals, building
+better projects, and becoming more consistent with the way I design and write
+software.
 
 ---
 
-### Contact
+## Stack
 
-- [GitHub](https://github.com/Marco-DeLao)
-- [LinkedIn](#)
-- [Email](mailto:)
-- [Portfolio](#)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Languages
+
+```text
+[ add your languages here ]
