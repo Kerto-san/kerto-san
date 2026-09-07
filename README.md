@@ -63,38 +63,30 @@
 
 ## 👤 About Me
 
-<table>
-<tr>
-<td width="180">
-<img src="./assets/about.gif" width="160" alt="About avatar" />
-</td>
-<td>
+<img src="./assets/about.gif" width="160" align="left" style="margin-right:20px;" />
 
-Hello! My name is **[Your Name]**, and I am a [your title/major] passionate about learning new technologies, building innovative projects, and solving complex problems through programming. Currently, I'm sharpening my skills in **[Tech 1, Tech 2, Tech 3]**, and focusing on building robust, well-designed applications.
+<p align="center">
+Hello! My name is <b>[Your Name]</b>, and I am a [your title/major] passionate about learning new technologies, building innovative projects, and solving complex problems through programming. Currently, I'm sharpening my skills in <b>[Tech 1, Tech 2, Tech 3]</b>, and focusing on building robust, well-designed applications.
+</p>
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 
 ## 🎯 Hobbies & Goals
 
-<table>
-<tr>
-<td>
+<p align="center">
 
-**[Your role/title/university]**
+[Your role/title/university]
 
 *"[Your favorite quote]" — [Quote author]*
 
 📌 [Optional short tagline or motto]
 
-</td>
-<td width="140">
-<img src="./assets/hobbies.gif" width="120" alt="Hobbies" />
-</td>
-</tr>
-</table>
+</p>
+
+<div align="center">
+<img src="./assets/hobbies.gif" width="140" />
+</div>
 
 </div>
