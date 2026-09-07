@@ -7,7 +7,7 @@
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 Hello there! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and understanding the architecture behind intelligent systems**.
 
@@ -23,9 +23,9 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="./assets/test.png" width="430" height="515" alt="About Me">
+<img src="./assets/test.png" width="100%" alt="About Me">
 
 </td>
 
