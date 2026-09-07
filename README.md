@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Technologies
+<h2 align="center">🛠️ Technologies</h2>
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 Statistics
+<h2 align="center">📊 Statistics</h2>
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌐 3D Contribution Graph
+<h2 align="center">🌐 3D Contribution Graph</h2>
 
 <div align="center">
 
@@ -61,21 +61,28 @@
 
 ---
 
-## 👤 About Me
+<h2 align="center">🌀 About Me</h2>
 
-<img src="./assets/about.gif" width="160" align="left" style="margin-right:20px;" />
+<table align="center" style="border:none; border-collapse:collapse;">
+<tr style="border:none;">
+<td width="200" style="border:none; vertical-align:middle;">
+<img src="./assets/about.gif" width="200" />
+</td>
+<td align="center" style="border:none; vertical-align:middle; padding:0 20px;">
 
-<p align="center">
-Hello! My name is <b>[Your Name]</b>, and I am a [your title/major] passionate about learning new technologies, building innovative projects, and solving complex problems through programming. Currently, I'm sharpening my skills in <b>[Tech 1, Tech 2, Tech 3]</b>, and focusing on building robust, well-designed applications.
-</p>
+Hello! My name is **[Your Name]**, and I am a [your title/major] passionate about learning new technologies, building innovative projects, and solving complex problems through programming. Currently, I'm sharpening my skills in **[Tech 1, Tech 2, Tech 3]**, and focusing on building robust, well-designed applications.
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Hobbies & Goals
+<h2 align="center">🎯 Hobbies & Goals</h2>
 
-<p align="center">
+<table align="center" style="border:none; border-collapse:collapse;">
+<tr style="border:none;">
+<td align="center" style="border:none; vertical-align:middle; padding:0 20px;">
 
 [Your role/title/university]
 
@@ -83,10 +90,9 @@ Hello! My name is <b>[Your Name]</b>, and I am a [your title/major] passionate a
 
 📌 [Optional short tagline or motto]
 
-</p>
-
-<div align="center">
-<img src="./assets/hobbies.gif" width="140" />
-</div>
-
-</div>
+</td>
+<td width="220" style="border:none; vertical-align:middle;">
+<img src="./assets/hobbies.gif" width="220" />
+</td>
+</tr>
+</table>
