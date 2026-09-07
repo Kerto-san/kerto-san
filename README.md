@@ -59,6 +59,7 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 </tr>
 </table>
+
 <br><br>
 
 <h2 align="center">
@@ -69,17 +70,17 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="72%" alt="Profile Details">
-
-<br><br>
-
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="35%" alt="Repositories Per Language">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="35%" alt="Most Commit Language">
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="90%" alt="Profile Details">
 
 <br>
 
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="35%" alt="GitHub Stats">
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="35%" alt="Productive Time">
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="46%" alt="Repositories Per Language">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="46%" alt="Most Commit Language">
+
+<br>
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="46%" alt="GitHub Stats">
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="46%" alt="Productive Time">
 
 </div>
 
