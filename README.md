@@ -36,20 +36,29 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <hr>
 
-<div align="center">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
 
-<img src="https://img.shields.io/badge/Python-083B73?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-0B4F8A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/R-1261A0?style=for-the-badge&logo=r&logoColor=white" alt="R">
+<td width="40%" align="center" valign="middle">
+  <img src="./assets/technologies.jpeg" width="100%" alt="Technologies">
+</td>
 
-<br>
+<td width="60%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/Git-1976C9?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-2589D8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Pygame-3B9FEF?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
+  <img src="https://img.shields.io/badge/Python-083B73?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-0B4F8A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/R-1261A0?style=for-the-badge&logo=r&logoColor=white" alt="R">
 
-</div>
+  <br>
 
+  <img src="https://img.shields.io/badge/Git-1976C9?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-2589D8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Pygame-3B9FEF?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
+
+</td>
+
+</tr>
+</table>
 <br><br>
 
 <h2 align="center">
