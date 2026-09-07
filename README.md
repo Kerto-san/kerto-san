@@ -92,16 +92,24 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <hr>
 
-<div align="center">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
 
-<a href="https://github.com/Marco-DeLao">
-  <img src="https://img.shields.io/badge/GitHub-083B73?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+<td width="60%" align="center" valign="middle">
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-1261A0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-083B73?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 
-</div>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-1261A0?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 
-<br>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-2589D8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+  <img src="./
