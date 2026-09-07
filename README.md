@@ -1,10 +1,12 @@
+<hr>
+
 <h2 align="center">
   ♙ About me
 </h2>
 
 <hr>
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
 <td width="64%" valign="top">
@@ -25,11 +27,19 @@ I'm constantly improving my programming skills, exploring new technologies, and 
 
 <td width="36%" align="center" valign="middle">
 
-<img src="./assets/test.png" width="360" alt="About Me">
+<img
+  src="./assets/test.png"
+  width="100%"
+  height="405"
+  alt="About Me"
+>
 
 </td>
 
 </tr>
+</table>
+
+<hr>
 </table>
 
 <hr>
