@@ -14,10 +14,10 @@
 
 <hr>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
-<td width="64%" valign="top">
+<td width="62%" valign="top">
 
 Hello there! I'm **Marco DeLao**, a Software Engineering student. I enjoy learning new technologies, building practical software, and turning ideas into working projects.
 
@@ -33,9 +33,9 @@ I'm constantly improving my programming skills, exploring new technologies, and 
 
 </td>
 
-<td width="36%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="./assets/test.png" width="100%" height="405" alt="About Me">
+<img src="./assets/test.png" width="400" height="455" alt="About Me">
 
 </td>
 
