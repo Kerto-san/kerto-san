@@ -1,98 +1,57 @@
-<div align="center">
+<img src="./assets/hero.svg" width="100%" alt="Marco DeLao — software engineer" />
 
-<img src="./assets/banner.gif" width="700" alt="Banner" />
+`[ third/fourth-year ]` software engineering student focused on `[ specialization — e.g. backend systems, distributed apps, tooling ]`. I like `[ specific thing you actually enjoy building ]`, and right now I'm going deeper on `[ current skill ]`.
 
-# Welcome to [Your Name]'s GitHub 👋
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
-</div>
+Outside of code: `[ one real interest ]`.
 
 ---
 
-<h2 align="center">🛠️ Technologies</h2>
+### Stack
 
-<div align="center">
-
-![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+```
+languages    [ ]
+frameworks   [ ]
+databases    [ ]
+tools        [ ]
+```
 
 ---
 
-<h2 align="center">📊 Statistics</h2>
+### Building
 
-<div align="center">
+**`[ Project 1 name ]`** — `[ what it does, one line ]`
+`[ tech, tech, tech ]` · [repo](#) · [demo](#)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco-DeLao&show_icons=true&theme=dark&hide_border=true)
+**`[ Project 2 name ]`** — `[ what it does, one line ]`
+`[ tech, tech, tech ]` · [repo](#) · [demo](#)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marco-DeLao&theme=dark&hide_border=true)
-
-</div>
+**`[ Project 3 name ]`** — `[ what it does, one line ]`
+`[ tech, tech, tech ]` · [repo](#) · [demo](#)
 
 ---
 
-<h2 align="center">🌐 3D Contribution Graph</h2>
+### Now
 
-<div align="center">
+```
+building     [ ]
+learning     [ ]
+exploring    [ ]
+next         [ ]
+```
+
+---
+
+### Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Marco-DeLao&theme=dark&hide_border=true&background=0B0F14&stroke=141B22&ring=3FA796&fire=3FA796&currStreakLabel=3FA796)](https://github.com/Marco-DeLao)
 
 [![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-</div>
-
 ---
 
-<h2 align="center">🌀 About Me</h2>
+### Contact
 
-<table align="center" style="border:none; border-collapse:collapse;">
-<tr style="border:none;">
-<td width="200" style="border:none; vertical-align:middle;">
-<img src="./assets/about.gif" width="200" />
-</td>
-<td align="center" style="border:none; vertical-align:middle; padding:0 20px;">
-
-Hello! My name is **[Your Name]**, and I am a [your title/major] passionate about learning new technologies, building innovative projects, and solving complex problems through programming. Currently, I'm sharpening my skills in **[Tech 1, Tech 2, Tech 3]**, and focusing on building robust, well-designed applications.
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🎯 Hobbies & Goals</h2>
-
-<table align="center" style="border:none; border-collapse:collapse;">
-<tr style="border:none;">
-<td align="center" style="border:none; vertical-align:middle; padding:0 20px;">
-
-[Your role/title/university]
-
-*"[Your favorite quote]" — [Quote author]*
-
-📌 [Optional short tagline or motto]
-
-</td>
-<td width="220" style="border:none; vertical-align:middle;">
-<img src="./assets/hobbies.gif" width="220" />
-</td>
-</tr>
-</table>
+- [GitHub](https://github.com/Marco-DeLao)
+- [LinkedIn](#)
+- [Email](mailto:)
+- [Portfolio](#)
