@@ -9,17 +9,17 @@
 
 <td width="60%" valign="top">
 
-𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲! 𝗜'𝗺 𝗛𝗮𝗺𝘇𝗮 𝗔𝗞𝗔 **𝗠𝗮𝗿𝗰𝗼 𝗗𝗲𝗟𝗮𝗼**, 𝗮 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝗮𝘁 **𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗿𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 (𝗙𝗖𝗗𝗦)**, 𝗺𝗮𝗷𝗼𝗿𝗶𝗻𝗴 𝗶𝗻 **𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲**. 𝗜'𝗺 𝗽𝗮𝗿𝘁𝗶𝗰𝘂𝗹𝗮𝗿𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 **𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗔𝗜 𝗺𝗼𝗱𝗲𝗹𝘀, 𝗮𝗻𝗱 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗯𝗲𝗵𝗶𝗻𝗱 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝘀𝘆𝘀𝘁𝗲𝗺𝘀**.
+Hello there! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and understanding the architecture behind intelligent systems**.
 
-<𝗯𝗿><𝗯𝗿>
+<br><br>
 
-𝗜 𝗲𝗻𝗷𝗼𝘆 𝘁𝘂𝗿𝗻𝗶𝗻𝗴 𝘄𝗵𝗮𝘁 𝗜 𝗹𝗲𝗮𝗿𝗻 𝗶𝗻𝘁𝗼 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 — 𝗳𝗿𝗼𝗺 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀 𝘂𝘀𝗶𝗻𝗴 **𝗠𝗶𝗻𝗶𝗺𝗮𝘅 𝗮𝗻𝗱 𝗔𝗹𝗽𝗵𝗮-𝗕𝗲𝘁𝗮 𝗣𝗿𝘂𝗻𝗶𝗻𝗴**, 𝘁𝗼 𝗮𝗻𝗮𝗹𝘆𝘇𝗶𝗻𝗴 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗱𝗮𝘁𝗮 𝘄𝗶𝘁𝗵 **𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴**, 𝗮𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝘂𝘀𝗶𝗻𝗴 **𝗝𝗮𝘃𝗮 𝗢𝗢𝗣**.
+I enjoy turning what I learn into practical projects — from building AI agents using **Minimax and Alpha-Beta Pruning**, to analyzing real-world data with **Machine Learning**, and developing software systems using **Java OOP**.
 
-<𝗯𝗿><𝗯𝗿>
+<br><br>
 
-🎓 **𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 · 𝗔𝗜 𝗠𝗮𝗷𝗼𝗿**  
-🧠 **𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 & 𝗠𝗼𝗱𝗲𝗹 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲**  
-💻 **𝗣𝘆𝘁𝗵𝗼𝗻 · 𝗝𝗮𝘃𝗮 · 𝗥**
+🎓 **Computer Science Student · AI Major**  
+🧠 **Deep Learning & Model Architecture**  
+💻 **Python · Java · R**
 
 </td>
 
