@@ -25,7 +25,7 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/test.png" width="400" height="455" alt="About Me">
+<img src="./assets/test.png" width="430" height="515" alt="About Me">
 
 </td>
 
@@ -97,3 +97,5 @@ I enjoy turning what I learn into practical projects — from building AI agents
 </a>
 
 </div>
+
+<br>
