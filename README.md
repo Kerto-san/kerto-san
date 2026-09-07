@@ -1,5 +1,5 @@
 <h2 align="center">
-  ♙ About me
+  ꩜ About me
 </h2>
 
 <hr>
