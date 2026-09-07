@@ -1,12 +1,3 @@
-<div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Marco DeLao">
-
-<br>
-
-</div>
-
-<hr>
 
 <h2 align="center">
   ♙ About me
@@ -91,24 +82,6 @@ I enjoy turning what I learn into practical projects — from building AI agents
 </div>
 
 <br>
-
-<hr>
-
-<h2 align="center">
-  ◉ Contributions
-</h2>
-
-<hr>
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph">
-
-</div>
-
-<br>
-
-<hr>
 
 <h2 align="center">
   🔗 Connect
