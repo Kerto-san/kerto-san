@@ -92,7 +92,7 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <hr>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%;">
 <tr>
 
 <td width="60%" align="center" valign="middle">
