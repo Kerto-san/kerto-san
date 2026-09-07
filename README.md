@@ -92,10 +92,10 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <hr>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%;">
+<table width="930" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
-<td width="60%" align="center" valign="middle">
+<td width="558" align="center" valign="middle">
 
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-083B73?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -115,7 +115,7 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="372" align="center" valign="middle">
   <img src="./assets/Y.gif" width="100%" alt="Connect">
 </td>
 
