@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./assets/hero.svg" width="100%" alt="Marco DeLao">
+
+<br>
+
+</div>
+
 <hr>
 
 <h2 align="center">
@@ -27,19 +35,11 @@ I'm constantly improving my programming skills, exploring new technologies, and 
 
 <td width="36%" align="center" valign="middle">
 
-<img
-  src="./assets/test.png"
-  width="100%"
-  height="405"
-  alt="About Me"
->
+<img src="./assets/test.png" width="100%" height="405" alt="About Me">
 
 </td>
 
 </tr>
-</table>
-
-<hr>
 </table>
 
 <hr>
@@ -52,23 +52,15 @@ I'm constantly improving my programming skills, exploring new technologies, and 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B-0B5CAD?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Java-0B5CAD?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Python-0B5CAD?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-0B5CAD?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/Java-0B5CAD?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/R-0B5CAD?style=for-the-badge&logo=r&logoColor=white" alt="R">
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-0B5CAD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-0B5CAD?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/React-0B5CAD?style=for-the-badge&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/Node.js-0B5CAD?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-
-<br>
-
-<img src="https://img.shields.io/badge/MySQL-0B5CAD?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/Git-0B5CAD?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-0B5CAD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Pygame-0B5CAD?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
 
 </div>
 
@@ -95,6 +87,22 @@ I'm constantly improving my programming skills, exploring new technologies, and 
 
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub Stats">
 <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time">
+
+</div>
+
+<br>
+
+<hr>
+
+<h2 align="center">
+  ◉ Contributions
+</h2>
+
+<hr>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph">
 
 </div>
 
