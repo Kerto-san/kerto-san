@@ -43,13 +43,21 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco-DeLao&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marco-DeLao&theme=dark&hide_border=true)
 
 </div>
 
-> استبدل `YOUR_USERNAME` باسم المستخدم بتاعك على GitHub عشان الإحصائيات تظهر صح.
+---
+
+## 🌐 3D Contribution Graph
+
+<div align="center">
+
+[![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+</div>
 
 ---
 
@@ -89,7 +97,4 @@ Hello! My name is **[Your Name]**, and I am a [your title/major] passionate abou
 </tr>
 </table>
 
-
-![](./profile-3d-contrib/profile-night-green.svg)
 </div>
-
