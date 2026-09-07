@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Marco DeLao">
-
-<br>
-
-</div>
-
-<hr>
-
 <h2 align="center">
   ♙ About me
 </h2>
@@ -42,7 +32,7 @@ I enjoy turning what I learn into practical projects — from building AI agents
 </tr>
 </table>
 
-<hr>
+<br>
 
 <h2 align="center">
   ⚙ Technologies
@@ -64,9 +54,7 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 </div>
 
-<br>
-
-<hr>
+<br><br>
 
 <h2 align="center">
   📊 GitHub Activity
@@ -76,21 +64,21 @@ I enjoy turning what I learn into practical projects — from building AI agents
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="82%" alt="Profile Details">
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="72%" alt="Profile Details">
 
 <br><br>
 
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="40%" alt="Repositories Per Language">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="40%" alt="Most Commit Language">
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="35%" alt="Repositories Per Language">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="35%" alt="Most Commit Language">
 
 <br>
 
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="40%" alt="GitHub Stats">
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="40%" alt="Productive Time">
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="35%" alt="GitHub Stats">
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="35%" alt="Productive Time">
 
 </div>
 
-<br>
+<br><br>
 
 <h2 align="center">
   🔗 Connect
@@ -109,5 +97,3 @@ I enjoy turning what I learn into practical projects — from building AI agents
 </a>
 
 </div>
-
-<br>
