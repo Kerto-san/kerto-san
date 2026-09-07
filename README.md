@@ -89,5 +89,7 @@ Hello! My name is **[Your Name]**, and I am a [your title/major] passionate abou
 </tr>
 </table>
 
-</div>
+
 ![](./profile-3d-contrib/profile-night-green.svg)
+</div>
+
