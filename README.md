@@ -124,9 +124,6 @@ Hello world! I'm **Marco DeLao**, a Computer Science student at **Alexandria Uni
 
   <br><br>
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-2589D8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 
 </td>
 
