@@ -1,4 +1,4 @@
-<h2 align="center">
+<img width="1217" height="702" alt="image" src="https://github.com/user-attachments/assets/f5bb0d1b-7696-4534-9c32-1b6d7f5d1993" /><h2 align="center">
   ꩜ About me
 </h2>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! 𝙸'𝚖 **𝙼𝚊𝚛𝚌𝚘 𝙳𝚎𝙻𝚊𝚘**, 𝚊 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 **𝙰𝚕𝚎𝚡𝚊𝚗𝚍𝚛𝚒𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 (𝙵𝙲𝙳𝚂)**, 𝚖𝚊𝚓𝚘𝚛𝚒𝚗𝚐 𝚒𝚗 **𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎**. 𝙸'𝚖 𝚙𝚊𝚛𝚝𝚒𝚌𝚞𝚕𝚊𝚛𝚕𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 **𝙳𝚎𝚎𝚙 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝙰𝙸 𝚖𝚘𝚍𝚎𝚕𝚜, 𝚊𝚗𝚍 𝙻𝚒𝚗𝚞𝚡 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**.
+Hello world! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and Linux development**.
 
 <br><br>
 
