@@ -18,7 +18,11 @@ Hello world! I'm **Marco DeLao**, a Computer Science student at **Alexandria Uni
 I use Arch btw 🐧.
 
 <br>
+Fun facts:
 
+-  Big anime fan — Hunter x Hunter especially
+-  I can cook literally anything... as long as I've got the budget for it 
+-  Give me coffee, an espresso shot, and cold pizza, and I'll code you anything
 </td>
 
 <td width="40%" align="center" valign="middle"><img src="./assets/test.png" width="100%" alt="About Me"></td>
