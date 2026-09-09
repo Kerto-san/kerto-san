@@ -11,7 +11,7 @@
 
 <br>
 
-Hello there! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and Linux development**.
+𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥! 𝘐'𝘮 **𝘔𝘢𝘳𝘤𝘰 𝘋𝘦𝘓𝘢𝘰**, 𝘢 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘢𝘵 **𝘈𝘭𝘦𝘹𝘢𝘯𝘥𝘳𝘪𝘢 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 (𝘍𝘊𝘋𝘚)**, 𝘮𝘢𝘫𝘰𝘳𝘪𝘯𝘨 𝘪𝘯 **𝘈𝘳𝘵𝘪𝘧𝘪𝘤𝘪𝘢𝘭 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦**. 𝘐'𝘮 𝘱𝘢𝘳𝘵𝘪𝘤𝘶𝘭𝘢𝘳𝘭𝘺 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 **𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨, 𝘈𝘐 𝘮𝘰𝘥𝘦𝘭𝘴, 𝘢𝘯𝘥 𝘓𝘪𝘯𝘶𝘹 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵**.
 
 <br><br>
 
