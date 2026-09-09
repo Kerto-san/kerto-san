@@ -25,7 +25,7 @@ Hello world! I'm **Marco DeLao**, a Computer Science student at **Alexandria Uni
 - Big anime fan — Hunter x Hunter especially
 - I can cook literally anything... as long as I've got the budget for it
 - Give me coffee, an espresso shot, and cold pizza, and I'll code you anything
-- I use Arch btw 🗿
+- I use Arch btw 🐧
 
 <br>
 </td>
