@@ -116,11 +116,6 @@ Hello world! I'm Hamza, AKA **Kerto**, a Computer Science student at **Alexandri
     <img src="https://img.shields.io/badge/Gmail-083B73?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
-  <br><br>
-
-  <a href="https://discord.com/users/1448268789358530630">
-    <img src="https://img.shields.io/badge/Discord-1261A0?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
 
   <br><br>
 
