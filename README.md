@@ -13,7 +13,7 @@
 
 <br>
 
-Hello world! I'm Hamza, AKA **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and Linux development**.
+Hello world! I'm Hamza, AKA **Kerto**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and Linux development**.
 
 <br>
 
