@@ -9,17 +9,14 @@
 
 <td width="60%" valign="top">
 
-Hello there! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and understanding the architecture behind intelligent systems**.
+Hello there! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and Linux development**.
 
 <br><br>
 
-I enjoy turning what I learn into practical projects — from building AI agents using **Minimax and Alpha-Beta Pruning**, to analyzing real-world data with **Machine Learning**, and developing software systems using **Java OOP**.
+I use Arch btw 🐧.
 
 <br>
 
-🎓 **Computer Science Student · AI Major**  
-🧠 **Deep Learning & Model Architecture**  
-💻 **Python · Java · R**
 
 </td>
 
