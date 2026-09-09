@@ -9,6 +9,8 @@
 
 <td width="60%" valign="top">
 
+<br><br>
+
 Hello there! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and Linux development**.
 
 <br><br>
