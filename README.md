@@ -11,20 +11,23 @@
 
 <br>
 
-Hello world! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and Linux development**.
-
-<br><br>
-
-Fun facts:
-
--  Big anime fan — Hunter x Hunter especially
--  I can cook literally anything... as long as I've got the budget for it 
--  Give me coffee, an espresso shot, and cold pizza, and I'll code you anything
--  I use Arch btw 🐧.  
 <br>
 
-There are only 10 types of people: those who understand binary, and those who don't.
+Hello world! I'm **Marco DeLao**, a Computer Science student at **Alexandria University (FCDS)**, majoring in **Artificial Intelligence**. I'm particularly interested in **Deep Learning, AI models, and Linux development**.
 
+<br>
+
+> There are only 10 types of people: those who understand binary, and those who don't.
+
+<br>
+
+**Fun facts:**
+- Big anime fan — Hunter x Hunter especially
+- I can cook literally anything... as long as I've got the budget for it
+- Give me coffee, an espresso shot, and cold pizza, and I'll code you anything
+- I use Arch btw 🗿
+
+<br>
 </td>
 
 <td width="40%" align="center" valign="middle"><img src="./assets/test.png" width="100%" alt="About Me"></td>
